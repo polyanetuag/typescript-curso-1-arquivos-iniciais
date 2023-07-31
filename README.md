@@ -14,10 +14,10 @@
 
 ```bash
 # Clonar o repositório
-$ git clone
+$ git clone https://github.com/polyanetuag/typescript-curso-1-arquivos-iniciais.git
 
 # Entrar na pasta
-$ cd
+$ cd typescript-curso
 
 # Instalar as dependências
 $ npm install
