@@ -2,9 +2,9 @@
   <h1>Criando negociações em Bolsa de Valores</h1>
 </div>
 
-<div align="center">
+<!-- <div align="center">
     <img width= '800' src="" /> 
-</div>
+</div> -->
 
 ## 📚 Sobre
 Este projeto tem como finalidade aprender os usos e recursos da ferramenta typescript.
