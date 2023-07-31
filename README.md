@@ -9,6 +9,8 @@
 ## 📚 Sobre
 
 ## 🚀 Tecnologias utilizadas
+- Javascript
+- Typescript
 
 ## ⏱️ Como executar
 
