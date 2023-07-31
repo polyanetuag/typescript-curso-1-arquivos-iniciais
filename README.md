@@ -7,6 +7,7 @@
 </div>
 
 ## 📚 Sobre
+Este projeto tem como finalidade aprender os usos e recursos da ferramenta typescript.
 
 ## 🚀 Tecnologias utilizadas
 - Javascript
