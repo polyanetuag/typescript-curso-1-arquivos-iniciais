@@ -7,7 +7,9 @@
 </div> -->
 
 ## 📚 Sobre
-Este projeto tem como finalidade aprender os usos e recursos da ferramenta typescript.
+Este projeto funciona como uma simulação de negociações na bolsa de valores. 
+
+Tem como finalidade aprender os usos e recursos da ferramenta typescript.
 
 ## 🚀 Tecnologias utilizadas
 - Javascript
