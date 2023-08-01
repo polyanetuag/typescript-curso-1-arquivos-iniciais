@@ -14,6 +14,7 @@ Tem como finalidade aprender os usos e recursos da ferramenta typescript.
 ## 🚀 Tecnologias utilizadas
 - Javascript
 - Typescript
+- CSS
 
 ## ⏱️ Como executar
 
