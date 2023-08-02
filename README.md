@@ -7,7 +7,7 @@
 </div> -->
 
 ## 📚 Sobre
-Este projeto funciona como uma simulação de negociações na bolsa de valores. 
+Este projeto funciona como uma simulação para negociações na bolsa de valores. 
 
 Tem como finalidade aprender os usos e recursos da ferramenta typescript.
 
