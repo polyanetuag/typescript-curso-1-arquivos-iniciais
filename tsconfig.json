@@ -4,6 +4,8 @@
     "noEmitOnError": true,
     "outDir": "dist/js",
     "noImplicitAny": true,
+    "removeComments": true
+
   },
   "include": ["app/**/*"]
 }
