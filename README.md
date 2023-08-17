@@ -23,7 +23,7 @@ Tem como finalidade aprender os usos e recursos da ferramenta Typescript.
 $ git clone https://github.com/polyanetuag/typescript-curso-1-arquivos-iniciais.git
 
 # Entrar na pasta
-$ cd typescript-curso
+$ cd typescript-curso-1-arquivos-iniciais
 
 # Instalar as dependências
 $ npm install
