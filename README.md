@@ -9,7 +9,7 @@
 ## 📚 Sobre
 Este projeto funciona como uma simulação para negociações na bolsa de valores. 
 
-Tem como finalidade aprender os usos e recursos da ferramenta Typescript.
+Tem como finalidade aprender os usos e recursos da ferramenta Typescript, comparada com o javascript
 
 ## 🚀 Tecnologias utilizadas
 - Javascript
