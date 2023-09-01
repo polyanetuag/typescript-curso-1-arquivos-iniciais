@@ -1,5 +1,5 @@
 <div align="center" justify-content="space-between">
-  <h1><b>Alurabank<b>  <br>Criando negociações na Bolsa de Valores</h1>
+  <h1><b>Alurabank<b>  <br>Criando negociações</h1>
 </div>
 
 <!-- <div align="center">
