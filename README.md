@@ -8,6 +8,7 @@
 
 ## 📚 Sobre
 Este projeto funciona como uma simulação para negociações tipo na bolsa de valores
+Possui uma interface que possibilita criar negociacoes e listá-las em uma tabela
 
 Tem como finalidade aprender os usos e recursos da ferramenta Typescript, comparando com o javascript já implementado.
 
