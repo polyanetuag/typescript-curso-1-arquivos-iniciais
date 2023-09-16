@@ -7,7 +7,7 @@
 </div> -->
 
 ## 📚 Sobre
-Este projeto funciona como uma simulação para negociações tipo na bolsa de valores.
+Este projeto funciona como uma simulação para negociações.
 
 Possui uma interface que possibilita criar negociacoes e listá-las em uma tabela
 
