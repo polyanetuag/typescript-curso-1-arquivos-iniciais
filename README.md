@@ -7,7 +7,7 @@
 </div> -->
 
 ## 📚 Sobre
-Este projeto funciona como uma simulação para negociações.
+Este projeto funciona como uma simulação para criar negociações.
 
 Possui uma interface que possibilita criar negociações e listá-las em uma tabela.
 
