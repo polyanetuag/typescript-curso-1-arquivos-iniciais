@@ -9,7 +9,7 @@
 ## 📚 Sobre
 Este projeto funciona como uma simulação para criar negociações.
 
-Possui uma interface que possibilita criar negociações e listá-las em uma tabela, de acordo com as regras estabelecidas no projeto.
+Possui uma interface que possibilita criar negociações e listá-las em uma tabela, de acordo com as regras financeiras estabelecidas no projeto.
 
 Tem como finalidade aprender os usos e recursos da ferramenta Typescript, comparando e substituindo o javascript já implementado na aplicação.
 
