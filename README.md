@@ -1,5 +1,6 @@
 <div align="center" justify-content="space-between">
-  <h1><b>Alurabank<b></h1>
+  <h1>Alurabank <br/>
+  Negociações finaceiras</h1>
 </div>
 
 <!-- <div align="center">
