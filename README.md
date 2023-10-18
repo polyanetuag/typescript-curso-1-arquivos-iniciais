@@ -12,7 +12,7 @@ Este projeto funciona como uma simulação para criação de negociações finan
 
 Possui uma interface que possibilita criar negociações e listá-las em uma tabela, de acordo com as regras financeiras configuradas no projeto.
 
-Tem como finalidade aprender e praticar os usos e recursos da ferramenta Typescript, substituindo o javascript puro já implementado na aplicação.
+Tem como finalidade aprender e praticar os usos/recursos da ferramenta Typescript, substituindo o javascript puro já implementado na aplicação.
 
 ## 🚀 Tecnologias utilizadas
 - Javascript
