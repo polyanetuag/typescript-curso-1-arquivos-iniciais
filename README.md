@@ -10,7 +10,7 @@
 ## 📚 Sobre
 Este projeto funciona como um simulador para criar negociações financeiras, tendo como base as regras na bolsa de valores.
 
-Possui uma interface que possibilita criar negociações e listá-las em uma tabela, de acordo com as regras financeiras configuradas no projeto.
+Possui uma interface que possibilita criar negociações e listá-las em uma tabela, conforme as regras financeiras configuradas no projeto.
 
 Tem como finalidade aprender e praticar os usos e recursos da ferramenta Typescript, substituindo o javascript puro já implementado na aplicação.
 
