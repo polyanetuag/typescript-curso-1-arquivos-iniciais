@@ -1,6 +1,6 @@
 <div align="center" justify-content="space-between">
   <h1> 🏦<br/> Alurabank <br/>
-  Negociações finaceiras</h1>
+  Negociações financeiras</h1>
 </div>
 
 <!-- <div align="center">
